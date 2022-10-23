@@ -447,13 +447,12 @@ Resultado: Devo ser direcionado para a aplicação;
 
 ## Exemplo de cenário utilizando Gherkin:
 
-### Cenário: Acessar o sistema com um usuário válido
+Cenário: Acessar o sistema com um usuário válido
 
-### Dado: que acessei a aplicação
+Dado: que acessei a aplicação
 
-### E: fui direcionado para o login
+E: fui direcionado para o login
 
-### Quando: preencho meus dados de acesso corretamente
+Quando: preencho meus dados de acesso corretamente
 
-### Então: sou redirecionado para a aplicação
-
+Então: sou redirecionado para a aplicação
