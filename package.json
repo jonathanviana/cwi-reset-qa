@@ -1,0 +1,23 @@
+{
+  "name": "cwi-reset-qa",
+  "version": "1.0.0",
+  "description": "## O que é \"Quality Assurance\"?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanviana/cwi-reset-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanviana/cwi-reset-qa/issues"
+  },
+  "homepage": "https://github.com/jonathanviana/cwi-reset-qa#readme",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
+}
